@@ -1,6 +1,7 @@
 #Front-end Job Interview Questions
 
 ## General
+* Do you know the Sitecore way?
 * Are you on Twitter?
  * If so, who do you follow on Twitter?
 * Are you on GitHub?
