@@ -8,7 +8,7 @@
  * If so, what are some examples of repos you follow
 * What web languages are you proficient in?
 * How much experience do you have with SVN?
-* How much experience do you have with Git
+* How much experience do you have with Git?
 * Can you describe the difference between progressive enhancement and graceful degradation?
 * Explain what "Semantic HTML" means.
 * Why is it better to serve site assets from multiple domains?
