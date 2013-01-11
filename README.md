@@ -6,6 +6,7 @@
  * If so, who do you follow on Twitter?
 * Are you on GitHub?
  * If so, what are some examples of repos you follow
+* What web languages are you proficient in?
 * How much experience do you have with SVN?
 * How much experience do you have with Git
 * Can you describe the difference between progressive enhancement and graceful degradation?
@@ -17,7 +18,7 @@
 * What's the coolest thing you've ever coded, what are you most proud of?
 
 ## HTML
-* What are data- attributes good for?
+* What are `data-` attributes good for?
 
 ## Javascript 
 * Rate your experience with jQuery.
